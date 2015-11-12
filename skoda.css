@@ -1,0 +1,278 @@
+<style>
+
+.skoda-rteStyle-SkodaPro {
+border-spacing: 0px 0px !important;
+color: #555 !important;
+font-family: "Skoda Pro"  !important;
+font-size: 15px !important;
+font-style: normal !important;
+font-weight: 400 !important;
+line-height: 19.95px !important;
+text-rendering: optimizelegibility !important;
+}
+.skoda-rteElement-H3 {
+font-family: "Skoda Pro",verdana,helvetica,sans-serif;  !important;
+font-style: normal !important;
+font-weight: 200 !important;
+font-size: 19px !important;
+line-height: 1.2em !important;
+color: #333 !important;
+}
+
+#button {padding: 0 20px 0 35px; background: url(/sites/ru-ru/SiteCollectionImages/icons/phone.png) no-repeat 15px center; text-align: left; font-weight: bold; font-size: 12px; font-family: Verdana; line-height: 30px; display: block; height: 30px; width: 105px; background-color: #4ba82e; color: #fff;}
+
+</style>
+
+
+<style>
+.accordion { margin-left: 30px; }
+.accordion_header { cursor: pointer; margin-top: 30px; }
+.accordion_header .title { color: #8c8c8c; margin-bottom: 15px; }
+.accordion_header .arrow { background: url(/sites/ru-ru/SiteCollectionImages/icons/arrows_accordion.png) no-repeat 0 100%; height: 15px; width: 25px; display: inline-block; margin-right: 8px; }
+.accordion_header .active { color: #4ba82e; }
+.accordion_header .active .arrow { background: url(/sites/ru-ru/SiteCollectionImages/icons/arrows_accordion.png) no-repeat; height: 15px; width: 25px; display: inline-block; }
+.accordion_panel { border-left: 1px solid #d9d9d9; padding: 0 20px; margin-left: 45px;}
+.accordion_panel ul { margin: 20px 10px; }
+.accordion_panel ul li { margin-bottom: 15px; }
+.car-picker-control {position: relative; float: left; display: inline-block; line-height: 23px; margin-right: 0; top: 5px;}
+.car-picker-control>a span, .car-picker-control>a:visited span, .car-picker-control>a:active span {
+  padding: 0px 11px;
+}
+
+.car-picker-control>a:before, .car-picker-control>a:visited:before, .car-picker-control>a:active:before {
+  left: 7px;
+}
+</style>
+
+
+
+<style type="text/css">
+
+	.form * {box-sizing: content-box;}
+
+	.form {
+		display: block;
+		width: 440px;
+		margin: 0;
+		position: relative;
+		font-family: Verdana;
+		font-size: 12px;
+		color: #555555;
+		overflow: hidden;
+	}
+	
+
+	.form .inputs {
+		display: block;
+		margin: 0;
+		width: 400px;
+		padding: 0 10px 15px 20px;
+
+		z-index: 1;
+		clear: both;
+		overflow: hidden;
+		float: left;
+	}
+	
+	.form label {
+		display: block;
+		margin: 5px 0;
+		font-size: 10px;
+		clear: both;
+	}
+	
+	.form input, .form select, .form textarea {
+		margin: 0;
+		color: #555555;
+		line-height: 15px;
+		font-size: 12px;
+	}
+	
+	.form input:focus, .form select:focus, .form textarea:focus {outline: none;}
+	
+	.form input[type=text], .form input[type=email] {
+		height: 15px;
+		padding: 5px 8px;
+		border: 1px solid #c6c6c6;
+
+		float: left;
+	}
+	
+	.form input[type=text].error, .form input[type=email].error {
+		border: 3px solid #ED3A30;
+		margin-top: -2px;
+	}
+	
+	.form label.error {
+		background-color: #FCE2D2;
+		color: #ED3A30;
+		padding: 8px;
+		position: relative;
+		top: 4px;
+	}
+	
+	.form .select-wrapper {
+		display: block;
+		height: 25px;
+		background-color: #FFFFFF;
+		border: 1px solid #c6c6c6;
+
+		position: relative;
+		float: left;
+		margin-bottom: 5px;
+	}
+	
+	.form textarea {
+		border: 1px solid #c6c6c6;
+		font-family: Verdana;
+		resize: none;
+	}
+	
+	.form .textarea {
+		float: left;
+		margin-left: 20px;
+		margin-top: 15px;
+		width: 420px;
+	}
+	
+	.form .textarea textarea {
+		width: 360px;
+		padding: 5px;
+		height: 48px;
+	}
+	
+	.form .select-wrapper select {
+		border: none;
+		margin: 5px 2px;
+		padding: 0;
+	}
+	
+	.form .form-caption {
+		display: block;
+		margin: 0 0 15px 0;
+		line-height: 18px;
+	}
+	
+	.form .bg {
+		width: 100%;
+		height: 360px;
+		background-color:#2B2B2B;
+		position: absolute;
+		top: 45px;
+		left: 0;
+		z-index: 0;
+	}
+	
+	.form span.required {
+		color: #ED3A30;
+		display: block;
+		float: left;
+		margin-left: 5px;
+		margin-top: 3px;
+		font-size: 10px;
+	}
+	
+	.form .field-wrapper.one-half, .form .field-wrapper.one-third, .form .field-wrapper.two-thirds {
+		float: left;
+		overflow: hidden;
+	}
+	
+	.form .field-wrapper.required input {width: 342px;}
+	.form .field-wrapper.required .select-wrapper {width: 373px;}
+	.form .field-wrapper.required .select-wrapper select {width: 367px;}
+	.form .field-wrapper.one-half {width: 200px;}
+	.form .field-wrapper.one-half.required input {width: 160px;}
+	.form .field-wrapper.one-half.required .select-wrapper {width: 160px;}
+	.form .field-wrapper.one-half.required .select-wrapper select {width: 156px;}
+	.form .field-wrapper.one-third.required input, .form .field-wrapper.one-third.required .select-wrapper {width: 130px;}
+	.form .field-wrapper.one-third.required .select-wrapper select {width: 126px;}
+	.form .field-wrapper.two-thirds {width: 230px;}
+	.form .field-wrapper.two-thirds.required input, .form .field-wrapper.two-thirds.required .select-wrapper {width: 190px;}
+	.form .field-wrapper.two-thirds.required .select-wrapper select {width: 196px;}
+	.form .field-wrapper.full-width {
+		clear: both;
+		overflow: hidden;
+		width: 380px;
+	}
+	
+
+	
+	.form .privacy {
+		margin-left: 20px;
+		margin-bottom: 20px;
+	}
+	
+	.form .privacy >  {
+		float: left;
+		clear: none;
+	}
+	
+	.form .privacy label {
+		margin: 0 0 0 10px;
+		font-size: 12px;
+		float: left;
+	}
+	
+	.form a {
+		color: #4BA82E;
+		font-weight: bold !important;
+		text-decoration: none;
+	}
+	
+	.form div.submit {
+		display: block;
+		float: left;
+		margin: 11px 0 0 -21px;
+	}
+	
+	.form button.submit {
+		display: block;
+		margin: 7px 22px;
+		padding: 0 15px;
+		width: 100px;
+		height: 30px;
+		line-height: 30px;
+		color: white;
+		font-family: Verdana;
+		font-size: 12px;
+		font-weight: bold;
+		text-align: left;
+		background-color: #4BA82E;
+		border: none;
+		background-image: url(/shared/cs-cz/SiteCollectionImages/icons/arrow-next.png);
+		background-repeat: no-repeat;
+		background-position: 105px center;	
+	}
+	
+	.form .field-wrapper.one-third.with-icon input {
+		width: 90px;
+	}
+	
+	.form label.icon-label {
+		float: left;
+		clear: none;
+		margin: 5px 1px 5px 6px;
+	}
+	
+	.form input#TestDriveDate {text-align: right;}
+	
+	.privacy_submit {
+	
+		right: 20px;
+		bottom: 20px;
+	}
+	
+	.form input[type=checkbox] + label.error + label, .form input[type=checkbox] + label.error + label a {
+		color: #ED3A30;
+	}
+	
+	.form label.error {display: none !important;}
+	
+	customformsAllArea input[type="text"], .customformsAllArea textarea, .customformsAllArea select {
+		width: 92%!important;
+
+	}
+
+	
+</style>
+
