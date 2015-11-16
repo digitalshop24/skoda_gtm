@@ -1,0 +1,278 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement":
+  [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item":
+      {
+        "@id": "http://www.skoda-avto.ru/",
+        "name": "Главная"
+  	}
+	},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item":
+      {
+        "@id": "http://www.skoda-avto.ru/models/rapid/overview-page",
+        "name": "Rapid"
+  	}
+	}
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement":
+  [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item":
+      {
+        "@id": "http://www.skoda-avto.ru/",
+        "name": "Главная"
+  	}
+	},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item":
+      {
+        "@id": "http:http://www.skoda-avto.ru/models/new-octavia/overview",
+        "name": "Oktavia"
+  	}
+	}
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement":
+  [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item":
+      {
+        "@id": "http://www.skoda-avto.ru/",
+        "name": "Главная"
+  	}
+	},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item":
+      {
+        "@id": "http://www.skoda-avto.ru/models/new-octavia-rs/overview-page",
+        "name": "Octavia RS"
+  	}
+	}
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement":
+  [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item":
+      {
+        "@id": "http://www.skoda-avto.ru/",
+        "name": "Главная"
+  	}
+	},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item":
+      {
+        "@id": "http://www.skoda-avto.ru/models/new-octavia-combi/overview",
+        "name": "Octavia Combi"
+  	}
+	}
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement":
+  [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item":
+      {
+        "@id": "http://www.skoda-avto.ru/",
+        "name": "Главная"
+  	}
+	},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item":
+      {
+        "@id": "http://www.skoda-avto.ru/models/new-octavia-combi-rs/overview-page",
+        "name": "Octavia Combi RS"
+  	}
+	}
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement":
+  [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item":
+      {
+        "@id": "http://www.skoda-avto.ru/",
+        "name": "Главная"
+  	}
+	},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item":
+      {
+        "@id": "http://www.skoda-avto.ru/models/octavia-scout/overview",
+        "name": "Octavia Combi Scout"
+  	}
+	}
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement":
+  [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item":
+      {
+        "@id": "http://www.skoda-avto.ru/",
+        "name": "Главная"
+  	}
+	},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item":
+      {
+        "@id": "http://www.skoda-avto.ru/models/new-yeti/overview-page",
+        "name": "Yeti"
+  	}
+	}
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement":
+  [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item":
+      {
+        "@id": "http://www.skoda-avto.ru/",
+        "name": "Главная"
+  	}
+	},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item":
+      {
+        "@id": "http://www.skoda-avto.ru/models/new-yeti-outdoor/overview-page",
+        "name": "Yeti Outdoor"
+  	}
+	}
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement":
+  [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item":
+      {
+        "@id": "http://www.skoda-avto.ru/",
+        "name": "Главная"
+  	}
+	},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item":
+      {
+        "@id": "http://www.skoda-avto.ru/models/new-superb/overview",
+        "name": "Superb"
+  	}
+	}
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement":
+  [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item":
+      {
+        "@id": "http://www.skoda-avto.ru/",
+        "name": "Главная"
+  	}
+	},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item":
+      {
+        "@id": "http://www.skoda-avto.ru/models/new-superb-combi/overview",
+        "name": "Superb"
+  	}
+	}
+  ]
+}
+</script>
