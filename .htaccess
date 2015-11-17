@@ -1,1 +1,1 @@
-Redirect 301 / http://mozgva.ru
+RewriteRule ^pub.html / [R=301,L]
